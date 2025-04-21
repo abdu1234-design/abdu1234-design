@@ -1,12 +1,4 @@
-👋 Hi, I’m Abdulmejid  
-👀 I’m interested in HTML, CSS, JavaScript, and Next.js  
-🌱 I’m currently learning more about new technologies, especially AI  
-💞️ I’m looking to collaborate on team-based projects; great for networking  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/  
-😄 Pronouns: He/Him  
-⚡ Fun fact: I once fixed a bug in my code at 3 AM and celebrated with a cup of coffee!  
 
----
 
 <div id="header" align="center">
   <!-- Add any header content here if needed -->
@@ -51,7 +43,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
